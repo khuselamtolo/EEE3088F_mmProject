@@ -1,3 +1,3 @@
 # EEE3088F_mmProject
-## Khusela Mtolo (MTLKHU009)
-## Neo Vorsatz
+
+This is the repository for the design of the EEE3088F Micro-mouse Project.
