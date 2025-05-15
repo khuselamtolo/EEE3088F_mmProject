@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Connector_USB.lib")(type "KiCad")(uri "${KIPRJMOD}/Connector_USB.lib")(options "")(descr ""))
-)
